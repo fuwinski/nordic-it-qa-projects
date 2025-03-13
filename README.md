@@ -11,3 +11,9 @@ Minimum required test cases including boundary value analysis and equivalence cl
 - Test documentation for commercial CRM login functionality with 2FA.  
 Minimum required checklist and test cases including boundary value analysis and equivalence classes combined with pairwise testing.  
 [Link for documentation](https://docs.google.com/spreadsheets/d/1kMM7UVIV3NMBBelNX364s9Kgo49Xa1L3pquLgTZfqJI/edit?usp=drive_link)
+
+#  
+**Additional activities**
+
+- Study presentation about SOAP Protocol (RU lang) covering basic topics and history of development.  
+[Link to presentation](https://docs.google.com/presentation/d/1aSqS33OHqp2dmwE2qU6KkQnOcf6muMEOxsMQbydtCmU/edit?usp=sharing)
