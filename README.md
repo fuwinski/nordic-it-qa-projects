@@ -17,7 +17,7 @@ Minimum required checklist and test cases including boundary value analysis and 
 #  
 **Additional activities**
 
-- <ins>Study presentation about SOAP Protocol (RU lang) covering basic topics and history of development.</ins>   
+- Study presentation about SOAP Protocol (RU lang) covering basic topics and history of development.   
 [Link to presentation](https://docs.google.com/presentation/d/1aSqS33OHqp2dmwE2qU6KkQnOcf6muMEOxsMQbydtCmU/edit?usp=sharing)  
 ---
 **RU**
